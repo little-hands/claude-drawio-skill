@@ -11,7 +11,7 @@
       "name": "draw-io",
       "description": "draw.io diagram tool for creating and editing architecture diagrams, ER diagrams, flowcharts, wireframes, sequence diagrams, class diagrams, and domain model diagrams",
       "version": "1.0.0",
-      "source": "./skills/draw-io",
+      "source": "./plugins/draw-io",
       "license": "MIT",
       "keywords": ["drawio", "diagram", "architecture", "er-diagram"]
     }
