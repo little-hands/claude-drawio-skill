@@ -1,0 +1,10 @@
+{
+  "name": "draw-io",
+  "description": "draw.io (.drawio) diagram tool for creating and editing architecture diagrams, ER diagrams, flowcharts, wireframes, sequence diagrams, class diagrams, and domain model diagrams",
+  "version": "1.0.0",
+  "author": {
+    "name": "little-hands"
+  },
+  "repository": "https://github.com/little-hands/claude-drawio-skill",
+  "license": "MIT"
+}
