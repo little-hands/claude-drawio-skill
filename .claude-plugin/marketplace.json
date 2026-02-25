@@ -1,0 +1,13 @@
+{
+  "name": "claude-drawio-skill",
+  "owner": {
+    "name": "little-hands"
+  },
+  "plugins": [
+    {
+      "name": "draw-io",
+      "source": ".",
+      "description": "draw.io (.drawio) diagram tool for creating and editing architecture diagrams, ER diagrams, flowcharts, wireframes, sequence diagrams, class diagrams, and domain model diagrams"
+    }
+  ]
+}
