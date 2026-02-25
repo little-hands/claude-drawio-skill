@@ -3,11 +3,17 @@
   "owner": {
     "name": "little-hands"
   },
+  "metadata": {
+    "description": "draw.io plugin for Claude Code"
+  },
   "plugins": [
     {
       "name": "draw-io",
-      "source": ".",
-      "description": "draw.io (.drawio) diagram tool for creating and editing architecture diagrams, ER diagrams, flowcharts, wireframes, sequence diagrams, class diagrams, and domain model diagrams"
+      "description": "draw.io diagram tool for creating and editing architecture diagrams, ER diagrams, flowcharts, wireframes, sequence diagrams, class diagrams, and domain model diagrams",
+      "version": "1.0.0",
+      "source": "./skills/draw-io",
+      "license": "MIT",
+      "keywords": ["drawio", "diagram", "architecture", "er-diagram"]
     }
   ]
 }
